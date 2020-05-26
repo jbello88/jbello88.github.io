@@ -7,7 +7,7 @@
 
 html {
   font-family: "Open Sans", verdana, helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 body {
@@ -22,7 +22,7 @@ button {
   height: 40px;
   width: 200px;
   margin: 10px;
-  font-size: 18px;
+  font-size: 20px;
   border-radius: 4px;
   -webkit-transition: 0.4s;
   transition: 0.4s;
@@ -73,7 +73,7 @@ button:hover {
 
 .titlebar .titleText h1 {
   text-align: center;
-  font-size: 51px;
+  font-size: 53px;
 }
 
 .main {
